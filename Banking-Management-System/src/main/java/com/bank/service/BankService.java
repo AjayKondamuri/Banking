@@ -78,7 +78,7 @@ public class BankService {
 		}
 		
 		
-		return "Amount Transfer Successfully";
+		return "Transaction successfull";
 	}
 	
 	
